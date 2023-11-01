@@ -1,6 +1,6 @@
 # Wasareeo (وسارعوا | أذكارك)
 
-![Wasareeo Logo](https://github.com/OmarLkhalil/Wasareo/blob/main/logo.png)
+<img src="https://github.com/OmarLkhalil/Wasareo/blob/main/logo.png" width="130" height="130">
 
 ## Overview
 
