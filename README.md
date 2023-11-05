@@ -34,6 +34,6 @@ Wasareeo is an Azkar (أذكار) application that encourages and facilitates th
 
 You can download the Wasareeo app from the following link:
 
-[Download Now](https://drive.google.com/file/d/1rChZf37AFdUkQrtYfg-zbSRSaYbdQycq/view?usp=sharing)
+[Download Now](https://www.mediafire.com/file/02e6wt6jrn8z955/wasareeo.apk/file)
 
 **Note:** The app is temporarily unavailable on the Google Play Store due to some issues.
